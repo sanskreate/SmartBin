@@ -1,2 +1,2 @@
 # SmartBin
-SmartBin
+IoT Based Dustbin Dashboard
